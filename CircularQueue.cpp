@@ -1,4 +1,4 @@
-// Circular Queue
+// Circular Queue Using Array
 #include <bits/stdc++.h>
 using namespace std;
 class Queue
